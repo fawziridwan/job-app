@@ -1,0 +1,21 @@
+{
+  "name": "assets",
+  "homepage": "https://github.com/fawziridwan/job-app",
+  "authors": [
+    "fawziridwan <fawziridwan@gmail.com>"
+  ],
+  "description": "bower assets",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "MDBootstrap": "^4.9.0"
+  }
+}
